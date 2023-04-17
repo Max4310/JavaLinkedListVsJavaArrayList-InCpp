@@ -1,0 +1,6 @@
+﻿  List c++.cpp
+C:\Users\matte\source\repos\List c++\List c++\List c++.cpp(251,27): warning C4101: 'e': variabile locale senza riferimenti
+C:\Users\matte\source\repos\List c++\List c++\List c++.cpp(315,27): warning C4101: 'e': variabile locale senza riferimenti
+C:\Users\matte\source\repos\List c++\List c++\List c++.cpp(324,27): warning C4101: 'e': variabile locale senza riferimenti
+C:\Users\matte\source\repos\List c++\List c++\List c++.cpp(332,27): warning C4101: 'e': variabile locale senza riferimenti
+  List c++.vcxproj -> C:\Users\matte\source\repos\List c++\Debug\List c++.exe
